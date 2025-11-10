@@ -23,7 +23,7 @@ Codigo: [Solução](https://github.com/projeto-de-algoritmos-2025/Dividir_E_Conq
 
 ### Exercício 2 - [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/description)
 
-Dificuldade: Difícil<br>
+Dificuldade: Média<br>
 Problema: [Find First and Last Position of Element in Sorted Array](https://github.com/projeto-de-algoritmos-2025/Dividir_E_Conquistar_LeetCode_D6/blob/main/find_position/Exercicio2.md)<br>
 Codigo: [Solução](https://github.com/projeto-de-algoritmos-2025/Dividir_E_Conquistar_LeetCode_D6/blob/main/find_position/Exercicio2.c)<br>
 
