@@ -21,6 +21,14 @@ Codigo: [Solução](https://github.com/projeto-de-algoritmos-2025/Dividir_E_Conq
 
 ![](https://github.com/projeto-de-algoritmos-2025/Dividir_E_Conquistar_LeetCode_D6/blob/main/assets/Reverse_Pairs.png)<br>
 
+### Exercício 2 - [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/description)
+
+Dificuldade: Difícil<br>
+Problema: [Find First and Last Position of Element in Sorted Array](https://github.com/projeto-de-algoritmos-2025/Dividir_E_Conquistar_LeetCode_D6/blob/main/find_position/Exercicio2.md)<br>
+Codigo: [Solução](https://github.com/projeto-de-algoritmos-2025/Dividir_E_Conquistar_LeetCode_D6/blob/main/find_position/Exercicio2.c)<br>
+
+![](https://github.com/projeto-de-algoritmos-2025/Dividir_E_Conquistar_LeetCode_D6/blob/main/assets/find_position.png)<br>
+
 ## Instalação 
 **Linguagem**: C++<br>
 - O codigo deve ser executado no site do LeetCode em uma classe Solution.
