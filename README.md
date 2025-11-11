@@ -13,6 +13,16 @@
 Este repositório tem como objetivo a resolução de exercícios sobre Algoritimos de Dividir e Conquistar do [LeetCode](https://leetcode.com/), utilizando o conteúdo do quarto módulo Dividir e Conquistar.
 
 ## Screenshots
+
+### Exercício 1 - [Number of Pairs Satisfying Inequality](https://leetcode.com/problems/number-of-pairs-satisfying-inequality/)
+
+Dificuldade: Difícil<br>
+Problema: [Number of Pairs Satisfying Inequality](https://github.com/projeto-de-algoritmos-2025/Dividir_E_Conquistar_LeetCode_D6/blob/main/number_of_pairs/Exercicio1.md)<br>
+Codigo: [Solução](https://github.com/projeto-de-algoritmos-2025/Dividir_E_Conquistar_LeetCode_D6/blob/main/number_of_pairs/Exercicio1.cpp)<br>
+
+![](https://github.com/projeto-de-algoritmos-2025/Dividir_E_Conquistar_LeetCode_D6/blob/main/assets/number_of_pairs.png)<br>
+
+
 ### Exercício 1 - [Reverse Pairs](https://leetcode.com/problems/reverse-pairs/description)
 
 Dificuldade: Difícil<br>
