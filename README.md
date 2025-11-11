@@ -27,7 +27,7 @@ Codigo: [Solução](https://github.com/projeto-de-algoritmos-2025/Dividir_E_Conq
 
 Dificuldade: Média<br>
 Problema: [Find First and Last Position of Element in Sorted Array](https://github.com/projeto-de-algoritmos-2025/Dividir_E_Conquistar_LeetCode_D6/blob/main/find_position/Exercicio2.md)<br>
-Codigo: [Solução](https://github.com/projeto-de-algoritmos-2025/Dividir_E_Conquistar_LeetCode_D6/blob/main/find_position/Exercicio2.c)<br>
+Codigo: [Solução](https://github.com/projeto-de-algoritmos-2025/Dividir_E_Conquistar_LeetCode_D6/blob/main/find_position/Exercicio2.cpp)<br>
 
 ![](https://github.com/projeto-de-algoritmos-2025/Dividir_E_Conquistar_LeetCode_D6/blob/main/assets/find_position.png)<br>
 
@@ -36,7 +36,7 @@ Codigo: [Solução](https://github.com/projeto-de-algoritmos-2025/Dividir_E_Conq
 
 Dificuldade: Difícil<br>
 Problema: [Reverse Pairs](https://github.com/projeto-de-algoritmos-2025/Dividir_E_Conquistar_LeetCode_D6/blob/main/reverse_pairs/Exercicio3.md)<br>
-Codigo: [Solução](https://github.com/projeto-de-algoritmos-2025/Dividir_E_Conquistar_LeetCode_D6/blob/main/reverse_pairs/Exercicio3.c)<br>
+Codigo: [Solução](https://github.com/projeto-de-algoritmos-2025/Dividir_E_Conquistar_LeetCode_D6/blob/main/reverse_pairs/Exercicio3.cpp)<br>
 
 ![](https://github.com/projeto-de-algoritmos-2025/Dividir_E_Conquistar_LeetCode_D6/blob/main/assets/Reverse_Pairs.png)<br>
 
