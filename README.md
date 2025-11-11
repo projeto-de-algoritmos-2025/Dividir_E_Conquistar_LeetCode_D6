@@ -23,14 +23,6 @@ Codigo: [Solução](https://github.com/projeto-de-algoritmos-2025/Dividir_E_Conq
 ![](https://github.com/projeto-de-algoritmos-2025/Dividir_E_Conquistar_LeetCode_D6/blob/main/assets/number_of_pairs.png)<br>
 
 
-### Exercício 1 - [Reverse Pairs](https://leetcode.com/problems/reverse-pairs/description)
-
-Dificuldade: Difícil<br>
-Problema: [Reverse Pairs](https://github.com/projeto-de-algoritmos-2025/Dividir_E_Conquistar_LeetCode_D6/blob/main/reverse_pairs/Exercicio3.md)<br>
-Codigo: [Solução](https://github.com/projeto-de-algoritmos-2025/Dividir_E_Conquistar_LeetCode_D6/blob/main/reverse_pairs/Exercicio3.c)<br>
-
-![](https://github.com/projeto-de-algoritmos-2025/Dividir_E_Conquistar_LeetCode_D6/blob/main/assets/Reverse_Pairs.png)<br>
-
 ### Exercício 2 - [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/description)
 
 Dificuldade: Média<br>
@@ -38,6 +30,15 @@ Problema: [Find First and Last Position of Element in Sorted Array](https://gith
 Codigo: [Solução](https://github.com/projeto-de-algoritmos-2025/Dividir_E_Conquistar_LeetCode_D6/blob/main/find_position/Exercicio2.c)<br>
 
 ![](https://github.com/projeto-de-algoritmos-2025/Dividir_E_Conquistar_LeetCode_D6/blob/main/assets/find_position.png)<br>
+
+
+### Exercício 3 - [Reverse Pairs](https://leetcode.com/problems/reverse-pairs/description)
+
+Dificuldade: Difícil<br>
+Problema: [Reverse Pairs](https://github.com/projeto-de-algoritmos-2025/Dividir_E_Conquistar_LeetCode_D6/blob/main/reverse_pairs/Exercicio3.md)<br>
+Codigo: [Solução](https://github.com/projeto-de-algoritmos-2025/Dividir_E_Conquistar_LeetCode_D6/blob/main/reverse_pairs/Exercicio3.c)<br>
+
+![](https://github.com/projeto-de-algoritmos-2025/Dividir_E_Conquistar_LeetCode_D6/blob/main/assets/Reverse_Pairs.png)<br>
 
 ## Instalação 
 **Linguagem**: C++<br>
