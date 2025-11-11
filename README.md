@@ -63,6 +63,6 @@ Codigo: [Solução](https://github.com/projeto-de-algoritmos-2025/Dividir_E_Conq
 
 ## Outros 
 **Apresentação da resolução dos exercícios:** 
-[LINK DO VÍDEO](): 
+[LINK DO VÍDEO](https://youtu.be/rF-jIEfdgTo): https://youtu.be/rF-jIEfdgTo
 
 
